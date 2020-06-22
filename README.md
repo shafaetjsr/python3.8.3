@@ -7,4 +7,8 @@ Python Basic Information
 Go => Run menu, select => Run Without Debugging or Ctrl+F5
 
 # Comments 
-Use '#' for Single Line Comment and Three (""") Qutation for Multiple Comments 
+Use '#' for Single Line Comment and Three (""") Qutation for Multiple Comments
+
+# Git Quick Link
+
+[Variable Section ](https://github.com/shafaetjsr/python3.8.3/blob/master/Variables.py)
